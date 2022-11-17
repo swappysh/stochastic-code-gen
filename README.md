@@ -3,4 +3,4 @@
 2. `conda activate codegen-(cpu/gpu)`
 
 #### Saving Changes
-- `conda env export -n codegen-(cpu/gpu).yml -f environment-(cpu/gpu).yml --no-builds`
+- `conda env export -n codegen-(cpu/gpu) -f environment-(cpu/gpu).yml --no-builds`
